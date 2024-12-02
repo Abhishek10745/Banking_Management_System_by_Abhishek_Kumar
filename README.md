@@ -26,10 +26,10 @@ Here’s how to get started with the project:
 1. **Clone the repository**:
     ```bash
     git clone
-    https://github.com/Abhishek10745/Banking-Management-System-by-Abhishek-kumar-and-Prateek-Pandey
+    https://github.com/Abhishek10745/Banking_Management_System_by_Abhishek_Kumar_and_Prateek_Pandey
     
     cd
-https://github.com/Abhishek10745/Banking-Management-System-by-Abhishek-kumar-and-Prateek-Pandey
+https://github.com/Abhishek10745/Banking_Management_System_by_Abhishek_Kumar_and_Prateek_Pandey
     ```
 
 2. **Create and Set Up the Database**:
