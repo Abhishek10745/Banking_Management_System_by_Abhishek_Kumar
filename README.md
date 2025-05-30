@@ -1,7 +1,7 @@
 # Banking Management System 
-# by Abhishek Kumar and Prateek Pandey
+# by Abhishek Kumar
 
-This is a simple Banking Management System that we built using Java and MySQL. It allows users to register, log in, manage their bank accounts, and perform various transactions like debit, credit, and transfer money.
+This is a simple Banking Management System that i built using Java and MySQL. It allows users to register, log in, manage their bank accounts, and perform various transactions like debit, credit, and transfer money.
 
 ## Features
 
