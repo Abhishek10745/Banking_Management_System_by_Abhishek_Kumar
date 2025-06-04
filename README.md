@@ -8,7 +8,7 @@ This is a simple Banking Management System that i built using Java and MySQL. It
 - **User Registration & Login**: Users can easily sign up and log in using their email and password.
 - **Account Management**: After logging in, users can create new bank accounts, check their balances, and manage existing accounts.
 - **Transactions**: The system supports debit, credit, and money transfers between accounts.
-- **Security**: We’ve ensured that all passwords are securely hashed using SHA-256, and security pins are also hashed for better protection.
+- **Security**: I’ve ensured that all passwords are securely hashed using SHA-256, and security pins are also hashed for better protection.
 
 ## Prerequisites
 
